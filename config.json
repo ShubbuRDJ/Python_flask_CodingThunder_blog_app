@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "fb_url":"https://facebook.com/codingthunder",
+        "gh_url":"https://github.com/codingthunder",
+        "blog_name":"Coding Thunder",
+        "blog_tagline":"A Blog liked by Programmer",
+        "gmail_user":"Email_changed",
+        "gmail_password":"Changed_for_security_reason",
+        "no_of_posts":2,
+        "admin_user":"Shubham",
+        "admin_password":"Shubham@123",
+        "upload_location":"File_path_changed_for_security_reason"
+        
+    }
+}
